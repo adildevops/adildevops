@@ -43,6 +43,5 @@ This GitHub is an extension of my living lab: real projects, documented decision
 
 - GitHub: [@adildevops](https://github.com/adildevops)
 - LinkedIn: https://www.linkedin.com/in/adildevops/
-- Notes/blog: optional
 
 > Build platforms. Automate repeatable work. Document what breaks.
